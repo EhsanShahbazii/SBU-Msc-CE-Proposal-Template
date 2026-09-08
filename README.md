@@ -1,5 +1,6 @@
 # قالب پروپوزال کارشناسی ارشد دانشگاه شهید بهشتی (نسخه لاتک / زی‌پرشین)
 ### Shahid Beheshti University (SBU) MSc Thesis Proposal LaTeX Template
+![عکس بنر](images/banner.png)
 
 [![LaTeX](https://img.shields.io/badge/LaTeX-XeLaTeX-blue.svg)](https://www.latex-project.org/)
 [![XePersian](https://img.shields.io/badge/XePersian-RTL-green.svg)](https://ctan.org/pkg/xepersian)
