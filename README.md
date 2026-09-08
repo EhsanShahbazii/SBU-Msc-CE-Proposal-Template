@@ -45,7 +45,7 @@ sbu-msc-proposal-template/
 ## 🚀 پیش‌نیازها و نحوه کامپایل (Prerequisites & Usage)
 
 ### ۱. نصب توزیع لاتک
-برای کامپایل این پروژه به توزیع $\text{\TeX}$ با پشتیبانی از موتور **XeLaTeX** نیاز دارید:
+برای کامپایل این پروژه به توزیع Tex با پشتیبانی از موتور **XeLaTez** نیاز دارید:
 - **macOS**: نصب [MacTeX](https://tug.org/mactex/) یا از طریق `brew install --cask mactex`
 - **Linux (Ubuntu/Debian)**: `sudo apt-get install texlive-xetex texlive-lang-arabic`
 - **Windows**: نصب [MiKTeX](https://miktex.org/) یا [TeX Live](https://tug.org/texlive/)
